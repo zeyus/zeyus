@@ -20,3 +20,5 @@ Here are some ideas to get you started:
 ![Zeyus' GitHub stats](https://github-readme-stats.vercel.app/api?username=zeyus&show_icons=true&theme=radical&count_private=true)
 
 ![Metrics](/github-metrics.svg)
+
+<a rel="me" href="https://corteximplant.com/@zeyus">Mastodon</a>
