@@ -21,4 +21,3 @@ Here are some ideas to get you started:
 
 ![Metrics](/github-metrics.svg)
 
-<a rel="me" href="https://corteximplant.com/@zeyus">Mastodon</a>
