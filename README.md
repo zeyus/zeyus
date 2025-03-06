@@ -7,7 +7,7 @@ You're here, nice!
 
 
 <a href="#">
-  <img align="top" title="zeyus's top langs" alt="zeyus's top langs" src="https:/github-readme-stats-zeyus-projects-f92ffc50.vercel.app/api/top-langs/?username=zeyus&theme=synthwave&langs_count=10&layout=donut&hide=jupyter%20notebook,html" />
+  <img align="top" title="zeyus's top langs" alt="zeyus's top langs" src="https:/github-readme-stats-zeyus-projects-f92ffc50.vercel.app/api/top-langs/?username=zeyus&theme=synthwave&langs_count=10&layout=donut&hide=html,jupyter%20notebook" />
 </a>
 <a href="#">
   <img align="top" title="zeyus's GitHub stats" alt="zeyus's GitHub stats" src="https://github-readme-stats-zeyus-projects-f92ffc50.vercel.app/api?username=zeyus&show_icons=true&theme=synthwave" />
