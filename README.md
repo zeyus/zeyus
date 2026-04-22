@@ -14,6 +14,8 @@ I have a lot of stuff going on, you might like to check out my orgs:
 
 You can also visit my [personal website](https://zeyus.com/) <sup>([source](https://github.com/zeyus/zeyus.github.io))</sup> or my [link list](https://me.zys.im/) <sup>([source](https://github.com/zeyus/linkypoo))</sup>.
 
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/109655855075520503?domain=corteximplant.com)](https://corteximplant.com/@zeyus) [![Matrix chat room](https://img.shields.io/matrix/NexusDynamic%3Aneuro.wang?server_fqdn=matrix.neuro.wang&fetchMode=summary&logo=matrix&label=Matrix%20Chat%20Room)
+](https://matrix.to/#/#NexusDynamic:neuro.wang)
 
 
 <a href="#y"><img align="top" title="zeyus stats" alt="zeyus stats" src="https://github-readme-stats-zeyus-projects-f92ffc50.vercel.app/api?username=zeyus&show_icons=true&theme=synthwave"
