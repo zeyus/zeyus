@@ -18,7 +18,7 @@ You can also visit my [personal website](https://zeyus.com/) <sup>([source](http
 ](https://matrix.to/#/#NexusDynamic:neuro.wang)
 
 
-<a href="#y"><img align="top" title="zeyus stats" alt="zeyus stats" src="https://github-readme-stats-zeyus-projects-f92ffc50.vercel.app/api?username=zeyus&show_icons=true&theme=synthwave"
+<a href="#"><img align="top" title="zeyus stats" alt="zeyus stats" src="https://github-readme-stats-zeyus-projects-f92ffc50.vercel.app/api?username=zeyus&show_icons=true&theme=synthwave"
 /></a>
 
 
